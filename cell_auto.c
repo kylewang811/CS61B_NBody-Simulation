@@ -55,7 +55,7 @@ int main(int argc, char ** argv)
 {
 
     char *rowA, *rowB, **endptr;
-    unsigned int rule, rows;
+    uint32_t rule, rows;
 
     /* 
      * PART 1: USING COMMAND LINE ARGUMENTS
