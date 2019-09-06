@@ -36,7 +36,7 @@
 void usage(void)
 {
  
-    printf("    Proper usage: cell_auto <rows> <rule>\n\n");
+    printf("    Proper usage: cell_auto <rule> <rows>\n\n");
     
     printf("    This program simulates a simple cellular automata, outputting data to STDOUT\n"
            "    in the PBM file format. It takes two arguments. First, `rule`, which should be\n"
