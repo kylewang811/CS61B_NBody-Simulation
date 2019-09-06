@@ -43,8 +43,8 @@ void usage(void)
            "    on its left and right, the resulting grid from simulation should have dimensions\n"
            "    [ (`rows` + 1) x (2 * `rows` + 1)].\n");
 
-    // Execution should *NOT* continue after `usage()` is called, call `exit()` with return code 0
-    exit(0);
+    // Execution should *NOT* continue after `usage()` is called, call `exit()` with return code 1
+    exit(1);
 
 }
 
