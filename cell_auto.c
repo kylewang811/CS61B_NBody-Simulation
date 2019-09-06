@@ -17,6 +17,9 @@
 // <stdlib.h> is needed for `malloc()`, `free()`, etc.
 #include <stdlib.h>
 
+// <sys/types.h> needed for u_int32_t
+#include <sys/types.h>
+
 // Feel free to include any other C standard library header files here
 // (Our staff solution does not use any other header files)
 
