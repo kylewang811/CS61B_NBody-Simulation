@@ -94,7 +94,7 @@ int main(int argc, char ** argv)
      * PART 2: USING FORMATTING ARGUMENTS & PRINTF
      * ===========================================
      * A properly formatted PBM file starts with P1 <width> <height>
-     * Write code that will print "P1 <width> <height> ## (Rule <rule>)", followed by a newline
+     * Write code that will print "P1 <width> <height> ## <rows> of automata simulation (Rule <rule>)", followed by a newline
      *
      * Example: 
      * P1 11 6 ## 5 rows of automata simulation (Rule 450)
